@@ -1,2 +1,6 @@
+
 Creation du fichier common
 Ajout du fichier fx
+
+24/03/2017:
+New feature done
