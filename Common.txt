@@ -1,4 +1,4 @@
 Creation du fichier common
 Ajout du fichier fx
-AMI : Modification du fichier commun 1
+Alexandre Micali : Modification du fichier commun 1 /* Mise a jour suite a remarque Tony Garcia */
 
